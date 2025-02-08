@@ -69,9 +69,9 @@ const Footer = () => {
           </h4>
           <div className="space-y-3">
             {[
-              { icon: FaMapMarkerAlt, text: "Reg office:10 A  Tamil nagar ,  2nd Street  M.C Road  Chennai , Tamil Nadu , India 613004" },
+              { icon: FaMapMarkerAlt, text: "Reg office:10 A  Tamil nagar ,  2nd Street  M.C Road  Thanjavur , Tamil Nadu , India 613004" },
               { icon: FaPhoneAlt, text: "+1 (555) 123-4567" },
-              { icon: FaEnvelope, text: "info@smartlinesystems.com" },
+              { icon: FaEnvelope, text: "info@smartlinesystems.org" },
             ].map((contact, index) => (
               <div
                 key={index}
