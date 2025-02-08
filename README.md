@@ -1,4 +1,4 @@
-# -ConsultancyBeta
+# -ConsultancyBet
 
 ## Contributing
 
